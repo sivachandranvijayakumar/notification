@@ -1,0 +1,44 @@
+
+h2
+{
+	font-family: 'Agdasima', sans-serif;
+	color:#666666;
+}
+p
+{
+	font-family: 'Prompt', sans-serif;
+	color:#b3b3b3;
+	text-align:center;
+}
+img
+{
+	
+	position: absolute;
+    top: -15%;
+    left: 40%;
+    background-color:#eeececfc;
+    border-radius:50px;
+	height:35px;
+    width:35px;
+    padding: 20px;
+	box-shadow: 0px 0px 5px gray;
+}
+
+.container
+{
+	position:absolute;
+	left:35%;
+	top:30%;
+	padding:15px;
+	border-radius:25px;
+	width:30%;
+	box-shadow:0px 4px 6px 2px #e0e0e0;
+	background-color:#f0f0f0;
+}
+.button
+{
+	text-align:center;
+	padding:20px;
+	font-size:27px;
+}
+
